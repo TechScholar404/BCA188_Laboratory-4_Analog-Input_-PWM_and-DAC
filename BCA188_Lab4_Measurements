@@ -1,0 +1,7 @@
+| Knob Position | Expected Raw ADC | Expected PWM | Actual Raw ADC |
+| ------------- | ---------------: | -----------: | -------------: |
+| Minimum       |                0 |            0 |              0 |
+| Low           |          1023.75 |           64 |           1023 |
+| Middle        |           2047.5 |          128 |           2046 |
+| High          |          3072.25 |          192 |           3072 |
+| Maximum       |             4095 |          255 |           4095 |
